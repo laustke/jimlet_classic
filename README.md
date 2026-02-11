@@ -45,8 +45,10 @@ Open them with any audio player to listen.
 For current version and and information, visit:
 https://jimlet.com
 
+<br>
+
 **SCREENSHOTS**
 
-![Convert tab](images/convert.webp)
+<img src="images/convert.webp" width="60%">
 
-![Settings tab](images/settings.webp)
+<img src="images/settings.webp" width="60%">
