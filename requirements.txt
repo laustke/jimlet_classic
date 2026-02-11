@@ -1,0 +1,4 @@
+tkinterdnd2==0.4.3
+supertonic==1.0.0
+ttkbootstrap==1.19.2
+platformdirs==4.5.1
