@@ -1,7 +1,7 @@
 Non-Commercial License
 
 This software may be used for non-commercial purposes only.
-Commercial use is not permitted, including monetizing generated speech.
+Commercial use, including monetizing generated speech, is not permitted.
 
 This software is provided "as is", without warranty of any kind.
 The author is not responsible for any damage, data loss, or other issues resulting from its use.

@@ -44,3 +44,9 @@ Open them with any audio player to listen.
 
 For current version and and information, visit:
 https://jimlet.com
+
+**SCREENSHOTS**
+
+![Convert tab](images/convert.webp)
+
+![Settings tab](images/settings.webp)
